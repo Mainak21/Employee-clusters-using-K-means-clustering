@@ -6,4 +6,4 @@ Then performed unsupervised machine learning algorithm K-means clustering over t
 
 ## Cluster
 
-![cluster](https://github.com/Mainak21/Employee-Clusters-using-K-Means-Clustering/blob/main/Results/clustering.png)
+![cluster](https://github.com/Mainak21/Employee-clusters-using-K-means-clustering/blob/master/Results/clustering.png)
